@@ -18,8 +18,8 @@ coindex -h
 coindex -V
 
 # API Key Commands
-coindex key set
-coindex key show
+coindex key set<br>
+coindex key show<br>
 coindex key remove
 
 # Crypto Check Commands
