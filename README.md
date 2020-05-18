@@ -25,7 +25,7 @@ coindex key remove
 # Crypto Check Commands
 coindex check price
 
-# Check Specific Coins (default: BTN,ETH,XRP)
+# Check Specific Coins (default:'BTC,ETH,XRP,USDT,BCH,BSV,LTC,EOS,BNB,XTZ')
 coindex check --coin=BTC,ETH
 
 # Choose Currency (Default: USD)
