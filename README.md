@@ -5,7 +5,7 @@ Coindex CLI
 Command line interface written in Node.js to check cryptocurrency prices
 
 Register an API key at https://nomics.com
-![alt text](https://github.com/devil-cyber/coindex/blob/master/Screenshot (52).png?raw=true)
+![alt text](Screenshot (52).png)
 Usage
 npm install
 
