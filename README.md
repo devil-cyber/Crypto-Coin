@@ -1,4 +1,4 @@
-# Coindex
+# Crypto-Coin
 CLI Based app to show the price of Crypto Currency
 
 Coindex CLI
