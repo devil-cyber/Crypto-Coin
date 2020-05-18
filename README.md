@@ -7,11 +7,13 @@ Command line interface written in Node.js to check cryptocurrency prices
 Register an API key at https://nomics.com
 ![Screenshot](https://github.com/devil-cyber/Coindex/blob/master/Screenshot%20(52).png)
 # Step to follow to used this app:
-npm install
+npm install<br>
 npm link<br>
 Get you Api Key from https://nomics.com<br>
 coindex key set <br>
 coindex check price <br>
+
+# if any Query arise mail me at:mani2474695@gmail.com
 
 # Help & Commands
 coindex -h
