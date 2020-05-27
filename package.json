@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Manikant Kumar",
-  "link":"https://github.com/devil-cyber",
+  "link": "https://github.com/devil-cyber",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
