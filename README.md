@@ -5,7 +5,7 @@
 **[Student Code-In](https://scodein.tech) is a global program that helps students grow with Open Source. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of Open Source Projects. In this, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.**
 
 <p align="center">
-  <kbd><img src="https://github.com/StudentCode-in/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/Student%20Code-In%20logo.jpg" ></kbd>
+  <kbd><img src="https://github.com/devil-cyber/Crypto-Coin/blob/master/Student%20Code-In%20logo.jpg" ></kbd>
   </p>
 <a href="https://github.com/devil-cyber">Manikant</a>
  
