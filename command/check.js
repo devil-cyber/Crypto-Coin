@@ -10,10 +10,15 @@ const check={
          const s="Devloped by:Manikant Kumar";
          const l="Github:https://github.com/devil-cyber";
          const email="Email:mani2474695@gmail.com";
+         const heading = "Crypto-Coin";
+         const title = "Welcome to the project!"
 
          const api=new crypto_api(key);
          const priceOutputData=await api.getPriceData(cmd.coin,cmd.cur);
          console.log("\n\n\n\n\n\n\n");
+         console.log("\t\t\t\t\t\t\t\t\t\t\t",heading.white)
+         console.log("\t\t\t\t\t\t\t\t\t\t",title.white)
+         console.log("\n");
          console.log("\t\t\t\t\t",s.green,l.yellow,email.red)
          console.log("\n");
          console.log(priceOutputData);
