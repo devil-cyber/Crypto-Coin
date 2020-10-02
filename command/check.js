@@ -7,16 +7,26 @@ const check={
         try{
          key_manager=new keyManager();
          const key=key_manager.getKey();
-         const s="Devloped by:Manikant Kumar";
-         const l="Github:https://github.com/devil-cyber";
+         const s="Devloped by:Manikant Kumar | ";
+         const l="Github:https://github.com/devil-cyber | ";
          const email="Email:mani2474695@gmail.com";
-         const heading = "Crypto-Coin";
+         //const heading = "Crypto-Coin";
          const title = "Welcome to the project!"
 
          const api=new crypto_api(key);
          const priceOutputData=await api.getPriceData(cmd.coin,cmd.cur);
          console.log("\n\n\n\n\n\n\n");
-         console.log("\t\t\t\t\t\t\t\t\t\t\t",heading.white)
+         const chalk = require('chalk');
+         const clear = require('clear');
+         const figlet = require('figlet');
+         const files = require('../lib/files');
+         clear();
+         console.log(
+	        chalk.yellow(
+		    figlet.textSync('Crypto-Coin',{horizontalLayout: 'full'})
+	        )
+        );
+         //console.log("\t\t\t\t\t\t\t\t\t\t\t",heading.white)
          console.log("\t\t\t\t\t\t\t\t\t\t",title.white)
          console.log("\n");
          console.log("\t\t\t\t\t",s.green,l.yellow,email.red)
@@ -24,7 +34,7 @@ const check={
          console.log(priceOutputData);
          console.log("\n\n\n\n\n\n\n\n\n\n");
         }catch(err){
-            consol.error(err.message.red);
+            console.error(err.message.red);
         }
     }
 };
