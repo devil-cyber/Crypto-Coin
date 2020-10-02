@@ -18,11 +18,11 @@ Register an API key at https://nomics.com
 ![Screenshot](https://github.com/devil-cyber/Coindex/blob/master/Screenshot%20(52).png)
 # Step to follow to used this app:
 Get you Api Key from https://nomics.com<br>
-npm install<br>
-npm link<br>
-coindex key set <br>
-npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch <br>
-coindex check price <br>
+-npm install<br>
+-npm link<br>
+-coindex key set <br>
+-npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch <br>
+-coindex check price <br>
 
 # if any Query arise mail me at:mani2474695@gmail.com
 
