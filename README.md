@@ -21,6 +21,7 @@ Get you Api Key from https://nomics.com<br>
 npm install<br>
 npm link<br>
 coindex key set <br>
+npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch <br>
 coindex check price <br>
 
 # if any Query arise mail me at:mani2474695@gmail.com
